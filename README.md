@@ -12,9 +12,9 @@ Below is the current list of vulnerabilities supported by this verification suit
 
 | CVE ID | Impacted Component | Description & Check Summary |
 | :--- | :--- | :--- |
+| **CVE-2026-42945** | NGINX | A vulnerability in the ngx_http_rewrite_module module. |
 | **CVE-2025-26465** | OpenSSH | It could enable adversaries to launch machine-in-the-middle/man-in-the-middle (MitM) or denial-of-service (DoS) attacks. |
 | **CVE-2025-26466** | OpenSSH | It could enable adversaries to launch machine-in-the-middle/man-in-the-middle (MitM) or denial-of-service (DoS) attacks. |
-| **CVE-2026-42945** | NGINX | A vulnerability in the ngx_http_rewrite_module module. |
 
 # Contribution
 Contributions are highly welcomed! Whether you are fixing a bug, improving documentation, or adding automated checks for a new CVE, your help makes infrastructure safer for everyone.
